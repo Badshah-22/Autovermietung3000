@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jackson-datablind">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/M326/jackson-databind-jackson-databind-2.10.2/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/M326/jackson-databind-jackson-databind-2.10.2/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
